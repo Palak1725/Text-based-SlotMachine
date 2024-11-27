@@ -1,2 +1,2 @@
 # Text-based-SlotMachine
-Text Based slot machine in Python.
+Project 2 initially done with help, in Python.
